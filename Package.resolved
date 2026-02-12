@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "adison-offerwall-common",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adison-ads/adison-offerwall-common",
+      "state" : {
+        "revision" : "0e5a0ccc5c186cc7791cb893e220390a941ed75c",
+        "version" : "1.0.2"
+      }
+    },
+    {
+      "identity" : "adison-offerwall-ios-sdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adison-ads/adison-offerwall-ios-sdk",
+      "state" : {
+        "revision" : "0b48b9b32daa27ddf0ec141472ec8593134bf1f4",
+        "version" : "5.1.0"
+      }
+    },
+    {
+      "identity" : "adison-offerwall-lumberjack",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adison-ads/adison-offerwall-lumberjack",
+      "state" : {
+        "revision" : "c01a1a9461b6b9da805389f5b4cafa5a2b48a536",
+        "version" : "0.9.14"
+      }
+    },
+    {
+      "identity" : "adison-offerwall-web",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/adison-ads/adison-offerwall-web",
+      "state" : {
+        "revision" : "2ecd02d9d30b71b6a66e99bc1f5edd96b4c4eb2b",
+        "version" : "1.0.2"
+      }
+    }
+  ],
+  "version" : 2
+}
