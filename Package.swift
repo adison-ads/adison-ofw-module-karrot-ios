@@ -4,12 +4,12 @@
 import PackageDescription
 
 let moduleRepoURL = "https://github.com/adison-ads/adison-ofw-module-karrot-ios/releases/download"
-let moduleVersion = "0.9.0"
+let moduleVersion = "0.9.2"
 let artifact = "KarrotOfwModule.zip"
-let checksum = "6dea305ff8c2729c39e6f29c423f5259a4cbbf3207ef4a3307fbc6ef5fbc492e"
+let checksum = "0710c63a3ec0b84055a18fa2726df5cad2eb15d0792b424c60ef1b9c363dd88a"
 
 let coreRepoURL = "https://github.com/adison-ads/adison-offerwall-ios-sdk"
-let coreVersion = Version("5.1.2")
+let coreVersion = Version("5.1.4")
 
 // MARK: - Do not change.
 let package = Package(
